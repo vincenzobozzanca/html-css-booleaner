@@ -1,5 +1,16 @@
 header{
-	background-color: aqua;
+	background-color: rgb(0, 153, 255);
 	background-image : url(../img/pattern.png);
 }
-
+strong{
+	color: rgb(0,153,255);
+}
+.subtitle{
+	color: grey;
+	line-height: 0.0;
+}
+.description{
+	size: 12;
+	font-style:italic;
+	line-height: 0.0;
+}
