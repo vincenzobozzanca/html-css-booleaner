@@ -49,3 +49,16 @@ tbody tr:nth-child(odd) {
 tbody tr:nth-child(even) {
     background-color: white;
 }
+.image-card {
+	position: relative;
+    margin-bottom: 20px;
+}
+.text-overlay {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #ffffff; 
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0%;
+}
